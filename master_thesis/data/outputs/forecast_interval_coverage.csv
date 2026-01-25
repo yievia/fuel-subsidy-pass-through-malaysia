@@ -1,0 +1,11 @@
+target,model,coverage_95,n_with_intervals
+cpi_headline,"ARIMA(1, 1, 1)",1.0,51
+cpi_headline,"ARIMAX(1, 1, 1)",1.0,51
+cpi_transport,"ARIMA(1, 1, 1)",1.0,51
+cpi_transport,"ARIMAX(1, 1, 1)",0.803921568627451,51
+diesel,"ARIMA(1, 1, 1)",0.7450980392156863,51
+diesel,"ARIMAX(1, 1, 1)",0.6862745098039216,51
+ron95,"ARIMA(1, 1, 1)",0.9803921568627451,51
+ron95,"ARIMAX(1, 1, 1)",0.9803921568627451,51
+ron97,"ARIMA(1, 1, 1)",1.0,51
+ron97,"ARIMAX(1, 1, 1)",1.0,51
