@@ -8,29 +8,6 @@ The analysis examines the pass-through of global oil prices and exchange rates i
 
 ---
 
-## Repository Structure
-
-data/
-raw/ # Raw data downloaded from official sources
-processed/ # Final monthly dataset used in estimation
-
-notebooks/
-00_engineering_qc.ipynb
-01_eda_stationarity.ipynb
-02_ardl_diesel.ipynb
-03_ardl_ron97.ipynb
-04_ardl_cpi07.ipynb
-05_ardl_ron95.ipynb
-06_ardl_cpihd.ipynb
-07_ardl_ron97_wti.ipynb
-08_ardl_diesel_wti.ipynb
-
-outputs/
-figures/
-tables/
-
----
-
 ## Data Sources
 
 All data were obtained from official public sources:
